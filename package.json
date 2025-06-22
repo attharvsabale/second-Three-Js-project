@@ -1,0 +1,19 @@
+{
+  "name": "zajno-3d-web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "locomotive-scroll": "^4.1.4",
+    "three": "^0.177.0",
+    "vite-plugin-glsl": "^1.5.0"
+  }
+}
