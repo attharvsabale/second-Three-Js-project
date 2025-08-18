@@ -2,6 +2,9 @@
 Please Note: This project is currently optimized for desktop viewing only. Mobile responsiveness has not yet been implemented.
 This is my second project using **Three.js**, exploring more advanced concepts of 3D rendering in the browser.
 
+# [Live Link](https://second-three-js-project.vercel.app/)
+
+
 ## 🌟 Features
 
 - Custom 3D models
@@ -23,3 +26,4 @@ This is my second project using **Three.js**, exploring more advanced concepts o
 <img width="1919" height="991" alt="Screenshot 2025-08-18 123304" src="https://github.com/user-attachments/assets/ab75b06b-ca2b-4784-89e5-af4efce25ff3" />
 
 <img width="1919" height="992" alt="Screenshot 2025-08-18 123311" src="https://github.com/user-attachments/assets/8fb4a587-4670-48c9-a240-790fd8bdd02c" />
+
